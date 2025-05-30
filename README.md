@@ -3,6 +3,6 @@
 
 ## Hi there 👋
 
-this is not my profile, my profile is [here!][me]
+## this is not my profile, my profile is [here!][me]
 
 ## Cya 👋
